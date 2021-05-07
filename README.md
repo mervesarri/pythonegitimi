@@ -1,1 +1,1 @@
-# pythone-itimi
+# pythoneğitimi
